@@ -1,0 +1,12 @@
+/* Normal CSS reset – NO TAILWIND */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", "Urbanist", system-ui;
+  background: #f8fafc;
+  color: #1e293b;
+}
